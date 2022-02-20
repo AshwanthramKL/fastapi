@@ -2,3 +2,4 @@ __pycache__
 venv/
 .env
 heroku_database.png
+ipaddr.txt
